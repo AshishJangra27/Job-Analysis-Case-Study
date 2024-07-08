@@ -1,6 +1,6 @@
 # Case Study: Job Portal Dataset Analysis for Naukri
 
-## Project Overview
+## Case Study Overview
 
 As an experienced data analyst at one of India's leading job portals, we are tasked with analyzing a comprehensive dataset containing job listings. This dataset includes information on job roles, companies, required experience, salaries, locations, company ratings, reviews, responsibilities, and more. We aim to derive meaningful insights that can help improve the user experience, enhance job-matching algorithms, and provide strategic recommendations to stakeholders.
 
