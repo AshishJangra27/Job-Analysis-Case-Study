@@ -1,0 +1,41 @@
+# Market Trends
+
+## Objective
+Analyze current job market trends to inform strategic decisions.
+
+## Analysis Approach
+
+### 1. Identify Common Job Roles
+- **Objective**: Determine the most common job roles listed in the dataset.
+- **Approach**:
+  - Calculate the frequency of each job role.
+  - Identify the top 10 most common job roles.
+
+### 2. Analyze Distribution Across Industries
+- **Objective**: Understand the distribution of job roles across different industries.
+- **Approach**:
+  - Categorize job roles by industry.
+  - Analyze the frequency of job roles within each industry.
+
+### 3. Trends in Job Postings Over Time
+- **Objective**: Determine trends in job postings over time.
+- **Approach**:
+  - Analyze the number of job postings by date.
+  - Identify any significant increases or decreases in job postings.
+
+### 4. Location-Specific Job Trends
+- **Objective**: Evaluate trends in job postings based on location.
+- **Approach**:
+  - Analyze the number of job postings in different locations.
+  - Identify locations with the highest and lowest number of job postings.
+  - Determine the most common job roles in each location.
+
+## Data Requirements
+- **Job Role**: The title or role of the job.
+- **Location**: The location where the job is available.
+- **Posted On**: The date the job was posted.
+
+## Expected Outcomes
+- A detailed report on the most common job roles and their distribution across industries and locations.
+- Insights into trends in job postings over time.
+- Identification of key locations with high demand for specific job roles.
