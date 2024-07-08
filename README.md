@@ -13,7 +13,7 @@ Provide detailed insights into company performance and user feedback.
 Analyze current job market trends to inform strategic decisions.
 
 ### 3. Responsibility and Skill Requirements
-Identify the most common responsibilities listed in job postings.
+Could you identify the most common responsibilities listed in job postings?
 
 ### 4. Experience and Salary Analysis
 Examine the relationship between experience levels and salary ranges.
