@@ -26,9 +26,3 @@ Identify factors that influence successful job matches.
 
 ### 7. Job Posting Effectiveness
 Analyze the effectiveness of job postings in attracting qualified candidates.
-
-### 8. User Engagement
-Understand what drives user engagement and satisfaction.
-
-### 9. Longitudinal Analysis
-Track changes in job market trends over time.
